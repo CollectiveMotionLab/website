@@ -2,7 +2,7 @@
 title: "MindCrystal"
 date: 2018-02-26T17:29:34Z
 image: "img/mindcrystal/logo.png"
-external_link: ""
+external_link: "/projects/mindcrystal"
 weight: 1
 ---
 
