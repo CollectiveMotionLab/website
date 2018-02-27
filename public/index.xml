@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collective Motion Lab</title>
+    <link>/</link>
+    <description>Recent content on Collective Motion Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Feb 2018 17:29:34 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MindCrystal</title>
+      <link>/projects/mind_crystal/</link>
+      <pubDate>Mon, 26 Feb 2018 17:29:34 +0000</pubDate>
+      
+      <guid>/projects/mind_crystal/</guid>
+      <description>MindCrystal Trance rituals connect individuals in a larger group consciousness. The Collective Motion Laboratory was formed with the goal of exploring the phenomena of this collective consciousness. Technology and scientific research are used to both study and enhance the power of such liminal experiences. A set of modules that analyse and broadcast movement or other bio-signals to artists for use in their live performances.
+Video module: High-performance infrared video cameras enable data collection in the dark.</description>
+    </item>
+    
+    <item>
+      <title>Psiloscope</title>
+      <link>/projects/psiloscope/</link>
+      <pubDate>Mon, 26 Feb 2018 17:29:34 +0000</pubDate>
+      
+      <guid>/projects/psiloscope/</guid>
+      <description>Psiloscope @ Boom 2016 Trance rituals transform group consciousness. It is thought that music provides a rhythmic driver that increases the coherence between individuals’ conscious experience. This is maximized when the kinesthetic experience of one’s own body is synchronized with both the music and the visual experience of others’ movements. Psytrance producers have used computers and audio technology to explore the power of sound to enhance these experiences and extend them to groups of thousands of people.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 26 Feb 2018 17:28:29 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>The Collective Motion Laboratory For those who have experienced it, there is no doubt that trance rituals can profoundly impact human experience and connect individuals in a larger group consciousness. Yet moments like this are rare, and objectively-speaking, we have little idea what transpires to create such transformations. The Collective Motion Laboratory was formed with the purpose of documenting the subjective and objective phenomena of collective consciousness, especially in the context of electronic dance music.</description>
+    </item>
+    
+  </channel>
+</rss>
