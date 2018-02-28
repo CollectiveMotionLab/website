@@ -34,7 +34,7 @@
         {{ if .Site.Params.showBlog }}
         <a class="nav-item" href="#blog">Blog</a>
         {{ end }}
-        <a class="nav-item" href="#contact">Contact</a>
+        <a class="nav-item" href="#contacts">Contacts</a>
     </nav>
     <hr>
     </div><!-- Done with nav bar -->
@@ -90,12 +90,12 @@
     {{ end }}
 
 <!-- Let's chat, shall we? -->
-<div class="section" id="contact">
+<div class="section" id="contacts">
     <div class="container has-text-centered">
-    <h2 class="title is-2">Contact</h2>
+    <h2 class="title is-2">Contacts</h2>
         <div class="markdown">
             {{ range .Data.Pages }}
-                {{if eq .Title "Contact" }}
+                {{if eq .Title "Contacts" }}
                         {{.Content}}
                     {{end}}
                 {{ end }}
@@ -120,10 +120,10 @@
         {{ end }}
 
         {{ partial "social.html" . }}
-    </div><!-- End Contact container -->
+    </div><!-- End Contacts container -->
 
 	<div class="container has-text-centered top-pad"><a href="#top"><i class="fa fa-arrow-up"></i></a></div>
-</div><!-- End Contact section -->
+</div><!-- End Contacts section -->
 
 <div class="container"><hr></div>
 

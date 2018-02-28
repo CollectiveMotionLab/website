@@ -15,7 +15,7 @@ canonifyurls        = true                              # Turns relative urls in
     introheight         = "fullheight"                       # Input either 'medium' or 'large' or 'fullheight'
     themestyle          = "dark"                        # Choose 'light' or 'dark'
     #avatar              = "img/profile.jpg"             # Path to image in static folder eg. img/avatar.png, or comment out to remove
-    email               = "ouremailhere@email.com"         # Shows in contact section, or leave blank to omit
+    email               = "contact@cmlab.online"         # Shows in contact section, or leave blank to omit
     localtime           = false                          # Show your current local time in contact section
     timezone            = "Europe/Lisbon"         # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
     dateform            = "Jan 2, 2006"
@@ -50,5 +50,17 @@ canonifyurls        = true                              # Turns relative urls in
     icon = "twitter"
 
 [[params.social]]
-    url = "https://facebook.com/"
+    url = "https://www.youtube.com/channel/UCucC2qbbdZnCYWKxdBEv87w"
+    icon = "youtube"
+
+[[params.social]]
+    url = "https://facebook.com/collectivemotionlab"
     icon = "facebook"
+
+[[params.social]]
+    url = "https://vimeo.com/comolab"
+    icon = "vimeo"
+
+[[params.social]]
+    url = "https://www.instagram.com/collectivemotionlab/"
+    icon = "instagram"
